@@ -1,0 +1,2 @@
+rootProject.name='SCReMS'
+include ':app'
