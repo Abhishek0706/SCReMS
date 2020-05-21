@@ -37,4 +37,5 @@ dependencies {
     //noinspection GradleCompatible
     implementation 'com.android.support:design:22.2.0'
     implementation 'androidx.gridlayout:gridlayout:1.0.0'
+    implementation 'com.pkmmte.view:circularimageview:1.1'
 }
