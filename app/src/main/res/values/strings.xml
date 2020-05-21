@@ -12,5 +12,10 @@
     <string name="login">login</string>
     <string name="no_account_yet_create_one">no account yet create one</string>
     <string name="password">password</string>
-    <string name="email">email</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="enrollment">Enrollment No</string>
+    <string name="branch">Branch</string>
+    <string name="year">Year</string>
+    <string name="update">Update</string>
 </resources>
